@@ -1,0 +1,70 @@
+{
+    "regions": {
+        "num1": [
+            1658,
+            280,
+            108,
+            128
+        ],
+        "num2": [
+            1956,
+            274,
+            121,
+            133
+        ],
+        "num3": [
+            1658,
+            547,
+            112,
+            123
+        ],
+        "num4": [
+            1955,
+            537,
+            128,
+            131
+        ]
+    },
+    "buttons": {
+        "num1": [
+            1723,
+            351
+        ],
+        "num2": [
+            2018,
+            344
+        ],
+        "num3": [
+            1715,
+            608
+        ],
+        "num4": [
+            2023,
+            606
+        ],
+        "+": [
+            1647,
+            801
+        ],
+        "-": [
+            1792,
+            799
+        ],
+        "*": [
+            1943,
+            805
+        ],
+        "/": [
+            2087,
+            805
+        ]
+    },
+    "settings": {
+        "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+        "ocr_timeout": 0.5,
+        "click_delay": 0.8,
+        "round_start_delay": 1.0,
+        "continue_click_delay": 1.0,
+        "rerun_timeout": 3.0
+    }
+}
